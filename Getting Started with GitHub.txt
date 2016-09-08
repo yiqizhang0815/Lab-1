@@ -9,5 +9,5 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 - Once the document has been uploaded to your GitHub repo, go to the Repo in your browser
 - Edit this document by making a change to the text anywhere, then save your change (change)
 - From the command prompt or desktop client, pull the change you made online down to your machine
-- Make 1 more change to this file on your computer, then make another commit and push it to GitHub again
+- Make 1 more change to this file on your computer, then make another commit and push it to GitHub again(another change)
 - Submit a link to your Lab 1 repository on Blackboard; there should be at least 3 commits total.  The first will show this file being pushed.  The second will show the change you made online.  The 3rd will show the change you made to this file on your computer.
